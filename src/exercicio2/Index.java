@@ -31,6 +31,9 @@ public class Index {
 		americanas.listaGames();
 		americanas.calculaPatrimonio();
 	
+	
+		
+		
 		
 	}
 }
